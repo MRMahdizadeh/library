@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced10064-ca12-4242-acc1-32be2b6dc2b4" name="Changes" comment="Add to github" />
+    <list default="true" id="ced10064-ca12-4242-acc1-32be2b6dc2b4" name="Changes" comment="Commit some changes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/library/controllers/AuthorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/library/controllers/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/library/model/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/library/repositories/PublisherRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/authors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/books.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/library/bootstrap/DevBootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/library/bootstrap/DevBootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/library/model/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/library/model/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/library-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/library-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.library.LibraryApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.library.LibraryApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.library.LibraryApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.example.library.LibraryApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/۲۰۲۴-۰۵-۲۸T۱۷-۵۴-۱۹_۲۹۲.dumpstream" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +30,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -94,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716903757908</updated>
       <workItem from="1716903759188" duration="2237000" />
-      <workItem from="1716906082246" duration="4901000" />
+      <workItem from="1716906082246" duration="12218000" />
     </task>
     <task id="LOCAL‎۰۰۰۰۱" summary="Add to github">
       <created>1716956460336</created>
@@ -102,7 +119,13 @@
       <option name="presentableId" value="LOCAL‎۰۰۰۰۱" />
       <updated>1716956460337</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎۰۰۰۰۲" summary="Commit some changes">
+      <created>1716957358724</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۲" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۲" />
+      <updated>1716957358724</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +144,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add to github" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add to github" />
+    <MESSAGE value="Commit some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit some changes" />
   </component>
 </project>
