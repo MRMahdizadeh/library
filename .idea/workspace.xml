@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced10064-ca12-4242-acc1-32be2b6dc2b4" name="Changes" comment="Create new entity named publisher">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/authors.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/authors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/books.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/books.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/authors.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/authors.html" afterDir="false" />
-    </list>
+    <list default="true" id="ced10064-ca12-4242-acc1-32be2b6dc2b4" name="Changes" comment="Make some changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716903757908</updated>
       <workItem from="1716903759188" duration="2237000" />
-      <workItem from="1716906082246" duration="13208000" />
+      <workItem from="1716906082246" duration="13542000" />
     </task>
     <task id="LOCAL‎۰۰۰۰۱" summary="Add to github">
       <created>1716956460336</created>
@@ -119,7 +114,13 @@
       <option name="presentableId" value="LOCAL‎۰۰۰۰۳" />
       <updated>1716967927489</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎۰۰۰۰۴" summary="Make some changes">
+      <created>1716968851514</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۴" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۴" />
+      <updated>1716968851514</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +141,7 @@
     <MESSAGE value="Add to github" />
     <MESSAGE value="Commit some changes" />
     <MESSAGE value="Create new entity named publisher" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create new entity named publisher" />
+    <MESSAGE value="Make some changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Make some changes" />
   </component>
 </project>
