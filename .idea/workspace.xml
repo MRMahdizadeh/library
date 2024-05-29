@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ced10064-ca12-4242-acc1-32be2b6dc2b4" name="Changes" comment="" />
+    <list default="true" id="ced10064-ca12-4242-acc1-32be2b6dc2b4" name="Changes" comment="Add to github" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +69,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -93,11 +94,33 @@
       <option name="presentableId" value="Default" />
       <updated>1716903757908</updated>
       <workItem from="1716903759188" duration="2237000" />
-      <workItem from="1716906082246" duration="4120000" />
+      <workItem from="1716906082246" duration="4901000" />
     </task>
+    <task id="LOCAL‎۰۰۰۰۱" summary="Add to github">
+      <created>1716956460336</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۱" />
+      <updated>1716956460337</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add to github" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add to github" />
   </component>
 </project>
